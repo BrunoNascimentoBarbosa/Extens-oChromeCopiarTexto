@@ -1,0 +1,21 @@
+body {
+    background-color: #fafafa;
+}
+button {
+    
+    margin-top: 5px;
+    background-color: aqua;
+    border-radius: 5px;
+    
+
+
+}
+
+#input{
+    position: relative;
+}
+#texto {
+    width: 600px;
+    border-radius: 5px; 
+
+}
