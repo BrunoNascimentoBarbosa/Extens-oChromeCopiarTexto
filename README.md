@@ -1,1 +1,1 @@
-# Extens-oChromeCopiarTexto
+# ExtensãoChromeCopiarTexto
